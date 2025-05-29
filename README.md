@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro Henrique Duarte!
 - 🔭 Atualmente trabalho na área de modelagem e rentabilidade do Santander
-- 🌱 Estou cursando bacharelado em Estatística
+- 🌱 Estou cursando Bacharelado em Estatística na Universidade Federal de São Carlos
 <div>
   <a href="https://github.com/pedrimbal">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrimbal&show_icons=true&theme=merko" />
